@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RealEstate.DataAccess",
+    "\\RealEstate.Database",
+    "\\RealEstate.Types"
+  ],
+  "SelectedNode": "\\RealEstate.Database\\RealEstateSeedData.cs",
+  "PreviewInSolutionExplorer": false
+}
